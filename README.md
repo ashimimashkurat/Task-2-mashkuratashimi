@@ -1,7 +1,7 @@
  E-Commerce Sales Analysis and Customer Behavior Patterns 
 
 ## Project Overview
-This project analyzes an e-commerce transactional dataset containing 1,200 records. The objective was to perform descriptive statistical analysis, identify trends, and detect outliers using the Interquartile Range (IQR) method.
+This project analyzes an e-commerce sales dataset containing 1,200 records. The objective was to perform descriptive statistical analysis, identify trends, and detect outliers using the Interquartile Range (IQR) method.
 
 ## Key Findings
 - Total records analyzed: 1,200
