@@ -41,10 +41,6 @@ The Interquartile Range (IQR) method was used to identify unusually high-value t
 
 The analysis revealed consistent purchasing behavior among customers, with only a small number of unusually large transactions affecting the overall average sales value. The findings provide insight into customer spending habits and sales performance within the e-commerce dataset.
 
-## Files
-
-- E-Commerce Sales Analysis and Customer Behavior Patterns.xls
-
 ## Tools 
 - Microsoft Excel
 
@@ -55,3 +51,6 @@ The analysis revealed consistent purchasing behavior among customers, with only 
 
 ## Files
 - E-Commerce Sales Analysis and Customer Behavior Patterns.xlsx
+
+Author 
+Mashkurat Ashimi 
