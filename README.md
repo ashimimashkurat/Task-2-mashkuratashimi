@@ -53,4 +53,4 @@ The analysis revealed consistent purchasing behavior among customers, with only 
 - E-Commerce Sales Analysis and Customer Behavior Patterns.xlsx
 
 Author 
-Mashkurat Ashimi 
+- Mashkurat Ashimi 
